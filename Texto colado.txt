@@ -1,0 +1,302 @@
+DESAFIO PROFISSIONAL DE PERÍCIA TOXICOLÓGICA, MATEMÁTICA, FINANCEIRA, VEICULAR E BALÍSTICA
+
+
+Esta é a descrição do seu Desafio Profissional. Para que você possa desenvolver sua atividade e chegar à conclusão desta avaliação, é preciso baixar e salvar o Template Padrão Único em Word, que está disponível no link ao final desta descrição. Para baixá-lo, clique em Arquivo > Criar uma cópia > Baixar uma cópia. Você só conseguirá editar o template depois de salvá-lo. 
+
+
+Vamos adiante! Leia com atenção. 
+
+
+Seja bem-vindo ao Estudo de Caso da Disciplina de Perícia Toxicológica, Matemática, Financeira, Veicular e Balística. Aqui, você assume o papel de profissional responsável por analisar a situação, tomar decisões e propor soluções. É o momento de aplicar seus conhecimentos de forma prática e mostrar como lidaria com um desafio real.
+
+
+ 
+
+
+ETAPA 1 - Apresentação do Desafio Profissional
+
+
+Neste Desafio Profissional, você participará de um Estudo de Caso Investigativo e Pericial Complexo, que simula a dinâmica real da atividade de investigação criminal e pericial. Sua tarefa consiste em analisar a cena apresentada, identificar vestígios relevantes, interpretar informações contraditórias, formular e comparar hipóteses explicativas, avaliar a coerência lógica entre os elementos coletados e aplicar os princípios fundamentais da Investigação e da Perícia para orientar a reconstrução preliminar dos fatos. Isso inclui examinar a integridade dos vestígios, reconhecer possíveis pontos de contaminação, hierarquizar fontes de informação, articular o raciocínio indiciário e estruturar um plano metodológico de trabalho pericial que possa apoiar a tomada de decisões investigativas. Ao final, espera-se que você demonstre domínio dos conceitos estruturantes da disciplina, capacidade de análise crítica e rigor metodológico na construção de um Memorial Analítico que integre teoria, prática e fundamentação técnico-científica.
+
+
+ 
+
+
+O Caso: “O Tiro no Estacionamento Norte”
+
+
+Às 5h42 da manhã, a Polícia Científica é acionada para atender uma ocorrência de morte suspeita no estacionamento norte do Centro Logístico Novo Horizonte, uma área ampla e pouco iluminada, utilizada principalmente por caminhoneiros e funcionários do complexo. A vítima, Marcelo Vilar, 38 anos, motorista de transporte de carga, foi encontrada dentro da cabine do caminhão, em decúbito sentado, com a cabeça inclinada para trás e uma lesão compatível com perfuração por projétil de arma de fogo na região temporal direita.
+
+
+A equipe pericial encontra um cenário de contradições importantes:
+
+
+
+Uma pistola calibre .380 é localizada no chão, a 62 cm da porta da cabine, com o cão abaixado e carregador com três munições restantes.
+
+Há padrão de spatter sanguíneo no vidro lateral interno, mas sem backspatter evidente na arma encontrada.
+
+A trajetória preliminar aparente do projétil sugere disparo de cima para baixo, em leve angulação oblíqua.
+
+O projétil deformado é encontrado alojado no banco do passageiro, sem orifício de saída na vítima.
+
+Não são encontrados resíduos de pólvora visíveis nas mãos da vítima (resultado preliminar apenas visual).
+
+Manchas na palma da mão direita, porém, sugerem possível contato com superfícies sujas de fuligem.
+
+
+Ao mesmo tempo, os primeiros achados toxicológicos preliminares indicam:
+
+
+
+Forte odor alcoólico.
+
+Presença, em triagem rápida, de metabolitos compatíveis com benzodiazepínicos no sangue coletado.
+
+Relatos de colegas de que Marcelo havia “ficado estranho” e desorientado na noite anterior.
+
+Latas de energético, um frasco de medicamento controlado e uma garrafa térmica com resíduo de bebida alcoólica dentro da cabine.
+
+
+Informações circunstanciais adicionam mais camadas ao caso:
+
+
+
+A câmera que cobre o setor norte do estacionamento estava desligada desde às 2h18.
+
+O caminhão de Marcelo deveria partir às 4h30, mas permaneceu no local.
+
+O supervisor relatou que Marcelo havia discutido por telefone com alguém por volta de 22h30, aparentando nervosismo.
+
+Na roupa da vítima, há microperfurações que podem ou não estar associadas ao disparo.
+
+Dois projéteis .380 vazios são encontrados a 14 metros da cena, próximos à cerca metálica, sugerindo disparos prévios ou confronto.
+
+
+A Polícia Militar considera, preliminarmente, a possibilidade de suicídio, devido à arma encontrada e ao disparo único na vítima. No entanto a ausência preliminar de resíduos compatíveis, a posição do corpo, a trajetória do projétil e o estado toxicológico do motorista introduzem contradições relevantes. Além disso, os cartuchos encontrados à distância sugerem atividade armada anterior, não necessariamente relacionada ao caso.
+
+
+Cabe à perícia integrar os vestígios balísticos, toxicológicos, ambientais e circunstanciais para reconstruir cenários plausíveis, discutir dinâmica de disparo, avaliar a possibilidade de incapacidade psicomotora da vítima e determinar hipóteses concorrentes, tais como:
+
+
+
+Disparo autoprovocado.
+
+Disparo acidental.
+
+Homicídio com arma plantada.
+
+Morte secundária a intoxicação, seguida de manipulação da cena.
+
+
+Os encaminhamentos periciais incluem: exames toxicológicos completos (GC-MS), teste de resíduos de disparo (GSR), análise balística comparativa, estudo de trajetória e dinâmica, reconstituição de posicionamento, análise de câmeras e investigação sobre tempo de desligamento da câmera de segurança.
+
+
+Tipo de Atividade
+
+
+Este desafio constitui um Estudo de Caso Pericial e Investigativo, envolvendo:
+
+
+
+Análise de local de crime.
+
+Avaliação de vestígios materiais e ambientais.
+
+Leitura crítica de elementos contraditórios.
+
+Construção de hipóteses investigativas.
+
+Planejamento metodológico de perícia.
+
+Aplicação de princípios da investigação e da Medicina Legal.
+
+
+O produto final deverá ser um Memorial Analítico, contendo:
+
+
+
+Compreensão técnica do caso.
+
+Conceitos investigativos e periciais utilizados.
+
+Análise integrada dos vestígios.
+
+Hipóteses concorrentes e justificadas.
+
+Encaminhamentos periciais necessários.
+
+Conclusões possíveis à luz da Teoria Geral da Investigação e Perícia. 
+
+
+ETAPA 2 - Materiais de referência (ambientação) para o Desafio Profissional
+
+
+Os materiais de referência para o Desafio Profissional (ambientação) podem ser textos, anexos, dados, vídeos, podcasts, imagens, filmes, entre outros. Você deve analisar os materiais de referência e eleger três aspectos mais relevantes na solução do desafio. Por exemplo: uma estratégia inovadora, uma decisão polêmica ou uma atitude inesperada.
+
+
+1. Descrição Detalhada do Local do Fato
+
+
+O Estacionamento Norte do Centro Logístico Novo Horizonte é uma área ampla, pavimentada, parcialmente iluminada por postes espaçados e câmeras de vigilância. O caminhão da vítima, um semirreboque de grande porte, encontrava-se estacionado próximo à cerca metálica lateral. A cabine estava com a porta do motorista entreaberta e a luz interna apagada.
+
+
+A vítima, Marcelo Vilar, 38 anos, foi encontrada sentada no banco do motorista, com o tronco inclinado para trás e cabeça apoiada parcialmente no encosto. A lesão perfurocontusa era visível na região temporal direita. A mão direita repousava sobre a perna; a esquerda, caída ao lado do banco.
+
+
+A varredura preliminar revelou:
+
+
+
+A pistola calibre .380 encontrada no chão, a 62 cm da porta, sem sinais de disparo recente visíveis a olho nu.
+
+A arma estava descarregada apenas parcialmente, com três munições remanescentes e um estojo deflagrado na câmara.
+
+Dois estojos deflagrados adicionais foram encontrados a 14 metros do caminhão, próximos à cerca.
+
+Não havia sinais de sangue na superfície externa da arma.
+
+A cabine apresentava odor alcoólico intenso.
+
+Frasco de medicamento controlado sem tampa no porta-objetos.
+
+Uma garrafa térmica contendo resíduo de bebida alcoólica.
+
+Latas de energético no assoalho.
+
+Manchas no interior do vidro lateral compatíveis com padrão de forward spatter, sem evidência clara de backspatter sobre a arma.
+
+A temperatura ambiente às 6h04 era de 18 °C, com vento moderado e iluminação deficiente.
+
+
+2. Achados Preliminares de Perícia Balística
+
+
+A equipe de balística registrou os seguintes elementos:
+
+
+
+Trajetória preliminar do projétil sugerindo disparo de cima para baixo, com angulação aproximada entre 25 e 35º.
+
+Orifício de entrada na região temporal direita, sem orifício de saída.
+
+Projétil deformado encontrado alojado no banco do passageiro.
+
+Distância entre o ponto provável de origem do disparo e o assento sugere posicionamento não usual para suicídio.
+
+Ausência, na inspeção visual inicial, de resíduos compatíveis com stippling (tatuagem de pólvora) ao redor do ferimento.
+
+Ausência de fuligem aparente nas mãos da vítima, embora houvesse sujidade escura compatível com graxa ou fuligem de cabine.
+
+A pistola localizada no chão não apresentava backspatter, fuligem visível ou marca de recuo recente.
+
+Estojos encontrados distantes levantam hipótese de disparos prévios, confronto anterior ou tentativa de encenação.
+
+O conjunto dos vestígios contradiz parcialmente a hipótese de suicídio simples.
+
+
+3. Achados Preliminares de Perícia Toxicológica
+
+
+A equipe toxicológica realizou triagem inicial e observou:
+
+
+
+Odor alcoólico associado ao hálito da vítima.
+
+Presença preliminar de etanol no sangue e na saliva, estimada por teste qualitativo.
+
+Triagem imunológica indicando metabolitos compatíveis com benzodiazepínicos.
+
+Relato de colegas de que a vítima estava desorientada, confusa ou sonolenta na noite anterior.
+
+Garrafa térmica com resíduo alcoólico e frasco de medicamento controlado dentro da cabine.
+
+Histórico (informado pelo supervisor) de que Marcelo vinha trabalhando longas horas sem descanso adequado.
+
+Presença de latas de energético — combinação que pode potencializar efeitos depressivos/estimulantes.
+
+
+4. Informações Complementares da Investigação Preliminar
+
+
+A Polícia Militar e a segurança do centro logístico forneceram informações adicionais:
+
+
+
+A câmera que cobre o setor norte estava desligada desde às 2h18, sem registro de falha técnica no sistema.
+
+O caminhão deveria ter partido às 4h30, mas permaneceu estacionado.
+
+Um funcionário relatou ter ouvido algo semelhante a dois “estouros secos” por volta das 3h50.
+
+A vítima discutiu por telefone às 22h30, visivelmente alterada.
+
+A placa do veículo foi registrada entrando no complexo às 21h16, com Marcelo dirigindo sozinho.
+
+Não há registro de entrada de terceiros após a chegada da vítima — mas isso depende das câmeras desligadas.
+
+Os relatos apresentam contradições relevantes, especialmente quanto ao horário da possível morte e à dinâmica dos estampidos.
+
+
+5. Itens Encontrados Próximos ao Corpo
+
+
+Foram catalogados no raio imediato da cabine:
+
+
+
+Pistola .380 com três munições intactas no carregador.
+
+Estrutura da porta com marcas que podem corresponder a escoamento sanguíneo secundário.
+
+Projétil deformado alojado no banco do passageiro.
+
+Duas latas de energético.
+
+Garrafa térmica com resíduo alcoólico.
+
+Frasco de medicamento controlado sem tampa.
+
+Papel amassado com números escritos à mão, possivelmente telefones.
+
+Carteira da vítima com R$ 214 e documentos intactos.
+
+Cinzeiro contendo bitucas de cigarro que podem ter DNA ou toxinas ambientais relevantes.
+
+Não havia sinais claros de luta corporal, mas o conjunto dos vestígios sugere desorganização compatível com alteração psicomotora ou manipulação posterior da cena.
+
+
+6. Referências Técnicas Disponibilizadas ao Estudante
+
+
+Textos orientadores
+
+
+Manual de Procedimentos de Perícia Balística (classificação de lesões, trajetória, distância de disparo, resíduos de disparo – GSR).
+Princípios de Perícia Toxicológica Forense (absorção, metabolização, triagem, interpretação comportamental).
+Diretrizes gerais para análise de locais com arma de fogo e intoxicação.
+Noções de dinâmica de disparo e padrões de spatter relacionados a armas curtas.
+Materiais audiovisuais
+
+
+Vídeo técnico sobre trajetória de projéteis e reconstrução balística.
+Documentário técnico sobre intoxicação medicamentosa associada a acidentes e mortes violentas.
+Animação pericial sobre resíduos de disparo (GSR) e limitações interpretativas.
+Dados Ambientais Relevantes
+
+
+Temperatura registrada entre 2 e 6h: entre 14 e 18 °C.
+Vento moderado, potencialmente interferindo na deposição de partículas externas.
+Baixa iluminação, dificultando testemunhos visuais.
+Chuva leve registrada às 1h40, antes da chegada da vítima ao estacionamento.
+Essas referências fornecem elementos essenciais para que o estudante estruture sua análise investigativa, identifique contradições e aplique os conceitos da disciplina de forma coerente.
+
+
+ETAPA 3 - Levantamento de conceitos teóricos (preencher no Template Padrão Único)
+
+
+ETAPA 4 - Aplicação dos conceitos teóricos ao Desafio Profissional (preencher no Template Padrão Único)
+
+
+ETAPA 5 – ETAPA AVALIATIVA - Redação do produto - Memorial Analítico - (preencher no Template Padrão Único e, após a finalização, copiar e colar no campo de resposta a seguir)
