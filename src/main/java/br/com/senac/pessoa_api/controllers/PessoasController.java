@@ -1,17 +1,19 @@
 package br.com.senac.pessoa_api.controllers;
 
 
+import br.com.senac.pessoa_api.dtos.PessoaRequestDTO;
 import br.com.senac.pessoa_api.entidades.Pessoas;
 import br.com.senac.pessoa_api.repositorios.PessoasRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @Controller
 @RequestMapping("/pessoas")
+@CrossOrigin
+
 public class PessoasController {
 
     private PessoasRepository pessoasRepository;
@@ -29,5 +31,50 @@ public class PessoasController {
         }
 
         return ResponseEntity.ok(pessoasList);
+    }
+
+    @PostMapping("/criar")
+    public ResponseEntity<Pessoas> criar
+            (@RequestBody PessoaRequestDTO pessoa) {
+
+        Pessoas pessoaPersist = new Pessoas();
+        pessoaPersist.setNome(pessoa.getNome());
+        pessoaPersist.setSobrenome(pessoa.getSobrenome());
+
+
+        Pessoas retorno = pessoasRepository.save(pessoaPersist);
+
+        return ResponseEntity.status(201).body(retorno);
+    }
+
+    @PutMapping("/atualizar/{id}")
+    public ResponseEntity<Pessoas> atualizar
+            (@RequestBody PessoaRequestDTO pessoa,
+             @PathVariable Long id) {
+
+        if (pessoasRepository.existsById(id)) {
+            Pessoas pessoaPersist = new Pessoas();
+            pessoaPersist.setId(id);
+            pessoaPersist.setNome(pessoa.getNome());
+            pessoaPersist.setSobrenome(pessoa.getSobrenome());
+
+            Pessoas retorno = pessoasRepository.save(pessoaPersist);
+
+            return ResponseEntity.ok(retorno);
+        }
+
+        return ResponseEntity.badRequest().body(null);
+    }
+
+    @DeleteMapping("/deletar/{id}")
+    public ResponseEntity<Void> deletar
+            (@PathVariable Long id) {
+        if (pessoasRepository.existsById(id)) {
+            pessoasRepository.deleteById(id);
+
+            return ResponseEntity.ok(null);
+
+        }
+        return ResponseEntity.badRequest().body(null);
     }
 }
